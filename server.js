@@ -23,7 +23,7 @@ app.use("/api/users/", userRoute);
 app.use("/api/orders/", orderRoute);
 
 app.get("/", (req, res) =>
-  res.send("Hello World..!Your Server started get line...!" + port)
+  res.send("Hello World..!Your Server started at" + port)
 );
 
 const port = process.env.PORT || 8000;

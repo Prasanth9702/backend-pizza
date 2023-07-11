@@ -1,7 +1,6 @@
 {
   "name": "back-womens-dress-collection",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "engines": {
     "node": "15.7.0",
@@ -27,5 +26,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasanth9702/backend-pizza.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prasanth9702/backend-pizza/issues"
+  },
+  "homepage": "https://github.com/Prasanth9702/backend-pizza#readme",
+  "description": ""
 }
